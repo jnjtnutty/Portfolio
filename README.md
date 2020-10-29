@@ -18,7 +18,7 @@ This research proposes the development of a virtual reality system in which mult
 ## AR FOR SHOPPING
 This project made for help customer decide to buy products easiler by tracking products and show information of them.User can use voice command to add to shopping cart and calculate bugget.<br/>
 **link ::** https://pattaraporngc.wixsite.com/arforshopping?fbclid=IwAR1fPqfrlmaBSWnWnqcYabPETrTPBxgUL47oqP5i9l2Fh2S6l-trHybQyiM <br/>
-**video ::** https://drive.google.com/file/d/1AlRO8D67eYCGybkGD4yuBDbygFwWGE0q/view?usp=sharing
+**video ::** https://youtu.be/t_CIYJ6_7W4
 
 
 
